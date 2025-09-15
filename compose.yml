@@ -4,11 +4,11 @@ services:
   # Deployment Example
   #
   # Repository:
-  # https://github.com/cis526-codio/ex-deploy
+  # https://github.com/joshzru/deployment-exercise
   example-deploy:
     
     # Docker Image
-    image: ghcr.io/cis526-codio/ex-deploy:latest
+    image: ghcr.io/joshzru/deployment-exercise:latest
 
     # Container Name
     container_name: example-deploy
